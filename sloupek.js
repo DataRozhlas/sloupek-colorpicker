@@ -35,6 +35,7 @@ var pickr = Pickr.create({
 
 pickr.on("init", function (instance) {
   document.querySelector(".pcr-app").style.width = "100%";
+  document.querySelector("input[value=HEX]").style.display = "none";
 });
 
 pickr.on("save", function (inpColor) {
