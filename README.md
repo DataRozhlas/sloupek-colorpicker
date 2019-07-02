@@ -1,0 +1,1 @@
+color picker do sloupku Honzy Boèka o barvách
